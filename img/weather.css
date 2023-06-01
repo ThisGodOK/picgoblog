@@ -25,6 +25,7 @@ span.temp {
     z-index: 2;
 }
 .clock-row {
+    font-family: UnidreamLED;
     font-weight: 400;
     color: #000;
     display: flex;
@@ -43,6 +44,7 @@ span.temp {
 .card-clock-dackorlight,
 .card-clock-humidity {
     text-align: right;
+    display: none;
 }
 .card-clock-time {
     flex: 1;
