@@ -25,8 +25,7 @@ span.temp {
     z-index: 2;
 }
 .clock-row {
-    font-family: UnidreamLED;
-    font-weight: 1000;
+    font-weight: 400;
     color: #000;
     display: flex;
     justify-content: space-between;
